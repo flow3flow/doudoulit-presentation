@@ -1,0 +1,106 @@
+NOTICES ET CRÉDITS - DoudouLit
+================================
+
+Ce fichier liste toutes les ressources tierces utilisées dans DoudouLit,
+leurs auteurs et leurs licences respectives.
+
+---
+
+## Illustrations & Images
+
+### Histoires
+- Illustrations des contes : Générées via IA (Midjourney) et retouchées sur Canva
+  Licence : Usage commercial autorisé
+  Auteur : Flow Jaymes
+
+### Mascotte DoudouLit
+- Mascotte principale : Créée sur mesure
+  Licence : Propriété du projet DoudouLit
+  Auteur : Flow Jaymes
+
+---
+
+## Icônes
+
+### Lucide React
+- Source : https://lucide.dev/
+- Licence : ISC License (MIT-compatible)
+- Utilisation : Icônes UI dans toute l'application
+
+---
+
+## Sons & Audio
+
+### Effets sonores
+- Sons d'interaction (clicks, success, etc.) : Freesound.org
+- Licence : CC0 (Creative Commons Zero - Domaine Public)
+- Sources spécifiques :
+  * Pop sound effect by supersound23
+    URL : https://freesound.org/s/431532/
+    Licence : CC0
+
+---
+
+## Polices
+
+### Google Fonts
+- Inter : https://fonts.google.com/specimen/Inter
+  Licence : OFL (Open Font License)
+  
+- Comic Neue : https://fonts.google.com/specimen/Comic+Neue
+  Licence : OFL (Open Font License)
+
+---
+
+## Bibliothèques & Frameworks
+
+### Frontend
+- React : MIT License
+- TypeScript : Apache License 2.0
+- TailwindCSS : MIT License
+- Framer Motion : MIT License
+- React Router : MIT License
+- Zustand : MIT License
+- Vite : MIT License
+
+### Backend
+- FastAPI : MIT License
+- Uvicorn : BSD License
+- SQLModel : MIT License
+- Pydantic : MIT License
+- Python : PSF License
+
+---
+
+## Inspirations
+
+Ce projet s'inspire des principes UX/UI des applications suivantes :
+- Calm Kids (mindfulness pour enfants)
+- Lunii (conteuse d'histoires)
+- Bayam (plateforme éducative Bayard)
+
+Aucun code de ces applications n'a été copié. Seules les meilleures pratiques
+d'expérience utilisateur ont été étudiées et adaptées.
+
+---
+
+## Remerciements
+
+Merci à tous les bêta-testeurs qui ont partagé leurs retours :
+- Sophie & Léa
+- Marc & Jules  
+- Amélie & Tom
+
+Merci aux communautés open-source de React, FastAPI et TailwindCSS pour
+leurs outils exceptionnels et leur documentation de qualité.
+
+---
+
+## Contact
+
+Pour toute question concernant les licences ou l'utilisation d'assets :
+Email : flow3flow@example.com
+
+---
+
+Dernière mise à jour : Novembre 2025

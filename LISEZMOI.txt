@@ -1,0 +1,52 @@
+========================================
+🧸 DOUDOULIT - DOSSIER DE PRÉSENTATION
+========================================
+
+Bienvenue ! Tu as téléchargé le dossier complet de présentation du projet DoudouLit.
+
+📁 CONTENU DU DOSSIER
+=====================
+
+Ce dossier contient TOUT ce dont tu as besoin pour présenter le projet :
+
+✅ README.md              - Présentation complète avec screenshots
+✅ PROJECT_VISION.md      - Vision détaillée et philosophie
+✅ PITCH_DECK.md          - Présentation investisseurs (13 slides)
+✅ CONTRIBUTING.md        - Guide de contribution
+✅ INDEX.md               - Navigation selon ton profil
+✅ LICENSE                - Licence MIT
+✅ NOTICE.txt             - Crédits et licences
+✅ docs/images/           - 4 screenshots de l'application
+
+🎯 PAR OÙ COMMENCER ?
+======================
+
+1. Ouvre INDEX.md → il te guidera selon ton profil (recruteur, investisseur, dev...)
+2. Ensuite lis README.md → présentation complète du projet
+3. Regarde les images dans docs/images/ → aperçu visuel de l'app
+
+💻 POUR GITHUB
+==============
+
+Ce dossier est prêt à être publié sur GitHub :
+
+1. Crée un nouveau repo "doudoulit" sur GitHub
+2. Upload tous ces fichiers
+3. GitHub affichera automatiquement le README.md
+
+Commandes Git :
+```bash
+git init
+git add .
+git commit -m "Initial commit - DoudouLit presentation"
+git remote add origin https://github.com/TON_USERNAME/doudoulit.git
+git push -u origin main
+```
+
+📧 QUESTIONS ?
+==============
+
+Email : flow3flow@example.com
+GitHub : @flow3flow
+
+✨ Merci de ton intérêt pour DoudouLit ! ✨
